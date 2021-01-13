@@ -1,2 +1,2 @@
 # API-Rest
-API Rest utilizando React Js, Spring Boot e MySQL.
+API Rest utilizando React Js e Spring Boot e
