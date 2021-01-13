@@ -1,4 +1,5 @@
 # API-Rest
+<<<<<<< HEAD
 API Rest utilizando React Js, Spring Boot e MySQL.
 1.Spring Boot back-end(server) - Develop REST API
 -Spring Data JPA
@@ -6,3 +7,4 @@ API Rest utilizando React Js, Spring Boot e MySQL.
 2.react-front end(client) - Consume REST API
 -Axios http library
 -Create Component
+=======
